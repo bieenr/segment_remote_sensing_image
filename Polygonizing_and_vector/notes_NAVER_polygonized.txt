@@ -1,0 +1,8 @@
+Sample code
+1. Adding geometrical information
+2. Polygonizing raster files to esri shapefile (can be translated to other types easily)
+3. Filling holes + shrinking polygons a bit (for small connectors removal)
+4. Simplifying polygons
+5. Adding features (areas + number of vertices/points) to each polygon
+6. Classifying polygons using rule-based algorithms (areas and vertices)
+3-6: single file
